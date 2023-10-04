@@ -1,2 +1,2 @@
-1+1 is 11
+<h1>Link</h1>
 https://kad.pages.dev
