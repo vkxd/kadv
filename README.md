@@ -3,5 +3,5 @@ https://kad.pages.dev
 
 <h1>Image Preview</h1>
 
-![image](https://github.com/vkxd/kadv/assets/133252048/75d51b0e-92da-44b5-a4d8-14d63e1d7e8f)
+![image](https://github.com/user-attachments/assets/280f4aca-02c0-4368-9f66-b91795696e12)
 
